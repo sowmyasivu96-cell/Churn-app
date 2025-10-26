@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Churn Prediction</title>
+</head>
+<body>
+    <h2>Customer Churn Prediction</h2>
+    <form method="POST">
+        Age: <input type="number" name="Age" required><br>
+        Plan:
+        <select name="Plan">
+            <option value="Basic">Basic</option>
+            <option value="Standard">Standard</option>
+            <option value="Premium">Premium</option>
+        </select><br>
+        Usage(Minutes): <input type="number" name="Usage" required><br>
+        Monthly Charges: <input type="number" step="0.01" name="MonthlyCharges" required><br>
+        <input type="submit" value="Predict">
+    </form>
+</body>
+</html>

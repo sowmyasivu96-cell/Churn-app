@@ -1,0 +1,16 @@
+CustomerID,Age,Plan,Usage(Minutes),MonthlyCharges,Churn
+C001,25,Basic,300,50,No
+C002,40,Premium,700,120,Yes
+C003,30,Standard,400,70,No
+C004,22,Basic,250,45,No
+C005,35,Premium,800,130,Yes
+C006,28,Standard,500,80,No
+C007,50,Premium,1000,150,Yes
+C008,45,Standard,600,90,No
+C009,38,Basic,350,55,No
+C010,27,Premium,750,125,Yes
+C011,33,Standard,450,75,No
+C012,29,Basic,280,48,No
+C013,42,Premium,900,140,Yes
+C014,36,Standard,520,85,No
+C015,31,Basic,310,52,No
